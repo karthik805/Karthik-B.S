@@ -7,14 +7,22 @@ i work on data deriving insights as well as visualize it with the help of ML mod
 Skills: Python / SQL / Azure / Machine Learning / Agile Methodologies/ Big Data / CV / NLP
 
 - 🔭 I’m currently working on Recommendation System 
-- 🌱 I’m currently learning Azure 
+- 🌱 I’m currently learning Microsoft Azure 
+- 💬 Ask me about Machine Learning, Chatbot, Computer Vision 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthik805)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikbs85/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik805)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik805&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthik805)  
 
+![GitHub metrics](https://metrics.lecoq.io/karthik805)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=karthik805)  
 
+![Profile views](https://gpvc.arturio.dev/karthik805)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik805)](https://github.com/karthik805/github-readme-stats) 
