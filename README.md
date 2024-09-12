@@ -45,9 +45,7 @@ I'm always open to collaboration on exciting data science, machine learning, or 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/karthik805)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/karthikbs85/)
-
 ---
-
 ### **GitHub Stats:**
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik805)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik805&show_icons=true)  
@@ -55,11 +53,6 @@ I'm always open to collaboration on exciting data science, machine learning, or 
 ![GitHub Metrics](https://metrics.lecoq.io/karthik805)  
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=karthik805)  
 ![Profile Views](https://gpvc.arturio.dev/karthik805)
-
 ---
-
 Feel free to reach out for collaborations, discussions, or simply to connect! 😊
-
 ---
-
-You can use this as a complete bio for your GitHub profile. It combines your journey, skills, experience, and contact information in a comprehensive yet engaging format.
